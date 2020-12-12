@@ -11,7 +11,6 @@ we will extend them by inheritance to create more specification or combinator.
 
 */
 
-
 #include <iostream>
 #include <string>
 #include <vector>
